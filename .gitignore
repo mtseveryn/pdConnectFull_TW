@@ -1,0 +1,7 @@
+tmp/
+htmlcov/
+__pycache__/
+.coverage
+.tox/
+*.egg-info
+*.db

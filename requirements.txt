@@ -1,0 +1,7 @@
+requests
+pipedrive-python-lib
+PyBambooHR
+python-dateutil
+sqlalchemy
+dictalchemy
+pymysql
